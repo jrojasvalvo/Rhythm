@@ -13,9 +13,267 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-21T10:12:40.965-05:00
+  lastUpdatedAtString: 2021-02-21T10:18:47.384-05:00
   initializedAtString: 2021-02-21T10:04:23.338-05:00
   log:
+  - commitID: c38c2cbf572aa193cbbe28f6a56f99e8d791283f
+    mergeA: 
+    mergeB: 
+    authorName: Shmeigo
+    authorEmail: jlessiohadi@gmail.com
+    commitEmail: jlessiohadi@gmail.com
+    commitName: Shmeigo
+    summary: pls
+    description: 
+    timeString: 2021-02-21T10:17:43.000-05:00
+    commitTimeString: 2021-02-21T10:17:43.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\.gitignore.txt
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\.gitignore.txt
+      projectPath: .gitignore.txt
+      originalPath: .gitignore.txt
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\ArtifactDB
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\08\082ae07851d49c8089a6c1f69b21ea5e
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\08\082ae07851d49c8089a6c1f69b21ea5e
+      projectPath: Library\Artifacts\08\082ae07851d49c8089a6c1f69b21ea5e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\0a\0a0cc1a7db227dc69e0634a14bbe2716
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\0a\0a0cc1a7db227dc69e0634a14bbe2716
+      projectPath: Library\Artifacts\0a\0a0cc1a7db227dc69e0634a14bbe2716
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\0c\0c9d6b6fb9480d629217244e5fa4c9a5
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\0c\0c9d6b6fb9480d629217244e5fa4c9a5
+      projectPath: Library\Artifacts\0c\0c9d6b6fb9480d629217244e5fa4c9a5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\0d\0d449afe17b2d80cc0df143297a1188b
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\0d\0d449afe17b2d80cc0df143297a1188b
+      projectPath: Library\Artifacts\0d\0d449afe17b2d80cc0df143297a1188b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\0f\0f3e4f90f76501cd57f14a94a94cbd72
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\0f\0f3e4f90f76501cd57f14a94a94cbd72
+      projectPath: Library\Artifacts\0f\0f3e4f90f76501cd57f14a94a94cbd72
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\0f\0f6d9ac45f66de145db1bbc88eafa7ef
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\0f\0f6d9ac45f66de145db1bbc88eafa7ef
+      projectPath: Library\Artifacts\0f\0f6d9ac45f66de145db1bbc88eafa7ef
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\13\1354909a7a691398a84029646e28bea7
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\13\1354909a7a691398a84029646e28bea7
+      projectPath: Library\Artifacts\13\1354909a7a691398a84029646e28bea7
+      originalPath: Rhythm Dodgeball\Library\Artifacts\7b\7b3a74912a7d0acede48cd41831e9104
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\19\19c8f08e160d8f2fdc465834fee5f64a
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\19\19c8f08e160d8f2fdc465834fee5f64a
+      projectPath: Library\Artifacts\19\19c8f08e160d8f2fdc465834fee5f64a
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\2e\2ee595867cb19af5aa733476be6b4a9d
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\2e\2ee595867cb19af5aa733476be6b4a9d
+      projectPath: Library\Artifacts\2e\2ee595867cb19af5aa733476be6b4a9d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\34\3455d9860615189ed3971afb0a7091b6
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\34\3455d9860615189ed3971afb0a7091b6
+      projectPath: Library\Artifacts\34\3455d9860615189ed3971afb0a7091b6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\3e\3e1e8611795c86992907763ed7a5564d
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\3e\3e1e8611795c86992907763ed7a5564d
+      projectPath: Library\Artifacts\3e\3e1e8611795c86992907763ed7a5564d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\4d\4d98172aeb92756e75be853a2124f90b
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\4d\4d98172aeb92756e75be853a2124f90b
+      projectPath: Library\Artifacts\4d\4d98172aeb92756e75be853a2124f90b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\4f\4f165b16a7c4a194f766b01d5ab156ce
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\4f\4f165b16a7c4a194f766b01d5ab156ce
+      projectPath: Library\Artifacts\4f\4f165b16a7c4a194f766b01d5ab156ce
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\60\60473db983481d19aff049352e7251d9
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\60\60473db983481d19aff049352e7251d9
+      projectPath: Library\Artifacts\60\60473db983481d19aff049352e7251d9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+      projectPath: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\6b\6ba56bd7ebd1e4c5ec7ff4848bea09d4
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\6b\6ba56bd7ebd1e4c5ec7ff4848bea09d4
+      projectPath: Library\Artifacts\6b\6ba56bd7ebd1e4c5ec7ff4848bea09d4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\9b\9b84c3b7aab9b8db590f4b96281cc9eb
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\9b\9b84c3b7aab9b8db590f4b96281cc9eb
+      projectPath: Library\Artifacts\9b\9b84c3b7aab9b8db590f4b96281cc9eb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\af\af07854b92dc56d1f790aeae46e65c86
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\af\af07854b92dc56d1f790aeae46e65c86
+      projectPath: Library\Artifacts\af\af07854b92dc56d1f790aeae46e65c86
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\c8\c8a9f1a404daf43ff5e8452d2b549725
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\c8\c8a9f1a404daf43ff5e8452d2b549725
+      projectPath: Library\Artifacts\c8\c8a9f1a404daf43ff5e8452d2b549725
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+      projectPath: Library\Artifacts\d8\d8af343245ac8a9685671438c55e15b9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\Artifacts\eb\eb3f3bc0bf0995fedd399687f1066df7
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\eb\eb3f3bc0bf0995fedd399687f1066df7
+      projectPath: Library\Artifacts\eb\eb3f3bc0bf0995fedd399687f1066df7
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\EditorInstance.json
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\SourceAssetDB
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\StateCache\Hierarchy\46abc7-mainStage.json
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\StateCache\Hierarchy\46abc7-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\46abc7-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\expandedItems
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Rhythm Dodgeball.sln
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Rhythm Dodgeball.sln
+      projectPath: Rhythm Dodgeball.sln
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
   - commitID: ed287f46d466eef39b213d2661f360854d7b16e5
     mergeA: 
     mergeB: 
