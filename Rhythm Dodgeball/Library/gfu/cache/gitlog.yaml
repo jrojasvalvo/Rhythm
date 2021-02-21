@@ -13,9 +13,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-21T10:25:22.424-05:00
+  lastUpdatedAtString: 2021-02-21T10:26:28.617-05:00
   initializedAtString: 2021-02-21T10:04:23.338-05:00
   log:
+  - commitID: 2832ff24da5aa370a90b3440c47250cd948043a4
+    mergeA: 
+    mergeB: 
+    authorName: Shmeigo
+    authorEmail: jlessiohadi@gmail.com
+    commitEmail: jlessiohadi@gmail.com
+    commitName: Shmeigo
+    summary: d
+    description: 
+    timeString: 2021-02-21T10:26:19.000-05:00
+    commitTimeString: 2021-02-21T10:26:19.000-05:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\SourceAssetDB
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 4674f536b2985c7a51bb73542dd7341c6cff0fe0
     mergeA: 
     mergeB: 
