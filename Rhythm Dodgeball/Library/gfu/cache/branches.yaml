@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2021-02-21T09:47:43.052-05:00
+  initializedAtString: 2021-02-19T23:31:59.579-05:00
+  localBranches:
+  - name: Balls
+    tracking: origin/Balls
+  - name: main
+    tracking: origin/main
+  remoteBranches:
+  - name: origin/Balls
+    tracking: '[None]'
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
+  - name: origin/Player
+    tracking: '[None]'
+  - name: origin/UI
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/jrojasvalvo/Rhythm.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - Balls
+    - main
+    values:
+    - name: Balls
+      remote:
+        name: origin
+        url: https://github.com/jrojasvalvo/Rhythm.git
+      trackingBranch: Balls
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/jrojasvalvo/Rhythm.git
+      trackingBranch: main
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - Balls
+      - HEAD
+      - main
+      - Player
+      - UI
+    subKeyValues:
+    - Values:
+      - name: Balls
+        remote:
+          name: origin
+          url: https://github.com/jrojasvalvo/Rhythm.git
+        trackingBranch: 
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/jrojasvalvo/Rhythm.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/jrojasvalvo/Rhythm.git
+        trackingBranch: 
+      - name: Player
+        remote:
+          name: origin
+          url: https://github.com/jrojasvalvo/Rhythm.git
+        trackingBranch: 
+      - name: UI
+        remote:
+          name: origin
+          url: https://github.com/jrojasvalvo/Rhythm.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/jrojasvalvo/Rhythm.git
