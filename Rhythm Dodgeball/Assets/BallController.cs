@@ -7,7 +7,6 @@ public class BallController : MonoBehaviour
     public float speed = 0.1f;
     public GameObject arrow;
     public GameObject ball;
-    public GameObject line;
     public Vector3 highBallInitPos = new Vector3(11f, 2f, 0f);
     public Vector3 lowBallInitPos = new Vector3(11f, -2f, 0f);
     public Vector3 highArrowInitPos = new Vector3(-4f, 2f, 0f);
@@ -33,5 +32,10 @@ public class BallController : MonoBehaviour
         ball.transform.position = new Vector3(ball.transform.position.x - speed, 
                                                 ball.transform.position.y, 
                                                 ball.transform.position.z);
+
+        arrow.transform.position = new Vector3(arrow.transform.position.x - speed, 
+                                                arrow.transform.position.y, 
+                                                arrow.transform.position.z);
     }
+
 }

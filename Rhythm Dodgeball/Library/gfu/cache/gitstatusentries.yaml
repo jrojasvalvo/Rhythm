@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-21T12:08:46.392-05:00
+  lastUpdatedAtString: 2021-02-21T12:51:57.409-05:00
   initializedAtString: 2021-02-21T12:06:20.948-05:00
   entries:
   - path: Rhythm Dodgeball\Assembly-CSharp.csproj
@@ -22,57 +22,111 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+  - path: Rhythm Dodgeball\Assets\arrowController.cs
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\arrowController.cs
+    projectPath: Assets\arrowController.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\arrowController.cs.meta
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\arrowController.cs.meta
+    projectPath: Assets\arrowController.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\BallController.cs
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\BallController.cs
+    projectPath: Assets\BallController.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\APIUpdater\project-dependencies.graph
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\APIUpdater\project-dependencies.graph
-    projectPath: Library\APIUpdater\project-dependencies.graph
+  - path: Rhythm Dodgeball\Assets\Prefabs\Arrows.prefab
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\Arrows.prefab
+    projectPath: Assets\Prefabs\Arrows.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\Arrows.prefab.meta
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\Arrows.prefab.meta
+    projectPath: Assets\Prefabs\Arrows.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\Ball.prefab
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\Ball.prefab
+    projectPath: Assets\Prefabs\Ball.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\Ball.prefab.meta
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\Ball.prefab.meta
+    projectPath: Assets\Prefabs\Ball.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\down.prefab
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\down.prefab
+    projectPath: Assets\Prefabs\down.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\down.prefab.meta
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\down.prefab.meta
+    projectPath: Assets\Prefabs\down.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\HighBall.prefab
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\HighBall.prefab
+    projectPath: Assets\Prefabs\HighBall.prefab
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Rhythm Dodgeball\Assets\Prefabs\left.prefab
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\left.prefab
+    projectPath: Assets\Prefabs\left.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\left.prefab.meta
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\left.prefab.meta
+    projectPath: Assets\Prefabs\left.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\LowBall.prefab
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\LowBall.prefab
+    projectPath: Assets\Prefabs\LowBall.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Rhythm Dodgeball\Assets\Prefabs\right.prefab
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\right.prefab
+    projectPath: Assets\Prefabs\right.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\right.prefab.meta
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\right.prefab.meta
+    projectPath: Assets\Prefabs\right.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\up.prefab
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\up.prefab
+    projectPath: Assets\Prefabs\up.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Rhythm Dodgeball\Assets\Prefabs\up.prefab.meta
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\up.prefab.meta
+    projectPath: Assets\Prefabs\up.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Rhythm Dodgeball\Library\ArtifactDB
     fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ArtifactDB
     projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\Artifacts\4c\4c262f8e7b069ea817b1c90eabc2b50f
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\4c\4c262f8e7b069ea817b1c90eabc2b50f
-    projectPath: Library\Artifacts\4c\4c262f8e7b069ea817b1c90eabc2b50f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Rhythm Dodgeball\Library\Artifacts\53\53fcd8b90397ae6f8d70f640f970703a
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\53\53fcd8b90397ae6f8d70f640f970703a
-    projectPath: Library\Artifacts\53\53fcd8b90397ae6f8d70f640f970703a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Rhythm Dodgeball\Library\Artifacts\99\99fd554bc48d5d287ab23fc665409f9e
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\99\99fd554bc48d5d287ab23fc665409f9e
-    projectPath: Library\Artifacts\99\99fd554bc48d5d287ab23fc665409f9e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Rhythm Dodgeball\Library\Artifacts\d1\d13eb85d942ce13ade8250ef249b2451
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\d1\d13eb85d942ce13ade8250ef249b2451
-    projectPath: Library\Artifacts\d1\d13eb85d942ce13ade8250ef249b2451
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Rhythm Dodgeball\Library\Artifacts\db\db18275bb385b98d9928a452644a25fe
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\Artifacts\db\db18275bb385b98d9928a452644a25fe
-    projectPath: Library\Artifacts\db\db18275bb385b98d9928a452644a25fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Rhythm Dodgeball\Library\EditorInstance.json
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -85,6 +139,12 @@ MonoBehaviour:
   - path: Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -106,195 +166,45 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Rhythm Dodgeball\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Rhythm Dodgeball\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp.dll
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+  - path: Rhythm Dodgeball\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\PsdPlugin.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\PsdPlugin.dll
-    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
+  - path: Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Mathematics.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Mathematics.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+  - path: Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -304,9 +214,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\Library\SourceAssetDB-lock
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SourceAssetDB-lock
-    projectPath: Library\SourceAssetDB-lock
+  - path: Rhythm Dodgeball\Library\StateCache\Hierarchy\46abc7-mainStage.json
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\StateCache\Hierarchy\46abc7-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46abc7-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -316,15 +226,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Rhythm Dodgeball\Rhythm Dodgeball.sln
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Rhythm Dodgeball.sln
-    projectPath: Rhythm Dodgeball.sln
+  - path: Rhythm Dodgeball\ProjectSettings\TagManager.asset
+    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

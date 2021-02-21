@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-21T12:08:45.010-05:00
+  lastUpdatedAtString: 2021-02-21T12:51:57.989-05:00
   initializedAtString: 2021-02-21T12:08:44.994-05:00
   localBranches:
   - name: Balls
@@ -26,6 +26,8 @@ MonoBehaviour:
   - name: origin/Balls
     tracking: '[None]'
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/UI
     tracking: '[None]'
   remotes:
   - name: origin
@@ -63,6 +65,7 @@ MonoBehaviour:
     - Values:
       - Balls
       - HEAD
+      - UI
     subKeyValues:
     - Values:
       - name: Balls
@@ -71,6 +74,11 @@ MonoBehaviour:
           url: https://github.com/jrojasvalvo/Rhythm.git
         trackingBranch: 
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/jrojasvalvo/Rhythm.git
+        trackingBranch: 
+      - name: UI
         remote:
           name: origin
           url: https://github.com/jrojasvalvo/Rhythm.git

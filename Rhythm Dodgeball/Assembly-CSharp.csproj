@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\BallController.cs" />
      <Compile Include="Assets\UI\UIManager.cs" />
+     <Compile Include="Assets\arrowController.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Editor/2019.4.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
