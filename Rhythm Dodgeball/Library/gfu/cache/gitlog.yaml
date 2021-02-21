@@ -13,9 +13,237 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-21T12:09:58.078-05:00
+  lastUpdatedAtString: 2021-02-21T13:03:56.165-05:00
   initializedAtString: 2021-02-21T12:08:46.566-05:00
   log:
+  - commitID: da786412da3a692a3e964251d401e1d0ed474b38
+    mergeA: 
+    mergeB: 
+    authorName: Shmeigo
+    authorEmail: jlessiohadi@gmail.com
+    commitEmail: jlessiohadi@gmail.com
+    commitName: Shmeigo
+    summary: prefabs and hit detection
+    description: 
+    timeString: 2021-02-21T12:52:30.000-05:00
+    commitTimeString: 2021-02-21T12:52:30.000-05:00
+    changes:
+    - path: Rhythm Dodgeball\Assembly-CSharp.csproj
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\BallController.cs
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\BallController.cs
+      projectPath: Assets\BallController.cs
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\Arrows.prefab
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\Arrows.prefab
+      projectPath: Assets\Prefabs\Arrows.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\Arrows.prefab.meta
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\Arrows.prefab.meta
+      projectPath: Assets\Prefabs\Arrows.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\Ball.prefab
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\Ball.prefab
+      projectPath: Assets\Prefabs\Ball.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\Ball.prefab.meta
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\Ball.prefab.meta
+      projectPath: Assets\Prefabs\Ball.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\HighBall.prefab
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\HighBall.prefab
+      projectPath: Assets\Prefabs\HighBall.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\LowBall.prefab
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\LowBall.prefab
+      projectPath: Assets\Prefabs\LowBall.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\down.prefab
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\down.prefab
+      projectPath: Assets\Prefabs\down.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\down.prefab.meta
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\down.prefab.meta
+      projectPath: Assets\Prefabs\down.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\left.prefab
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\left.prefab
+      projectPath: Assets\Prefabs\left.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\left.prefab.meta
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\left.prefab.meta
+      projectPath: Assets\Prefabs\left.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\right.prefab
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\right.prefab
+      projectPath: Assets\Prefabs\right.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\right.prefab.meta
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\right.prefab.meta
+      projectPath: Assets\Prefabs\right.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\up.prefab
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\up.prefab
+      projectPath: Assets\Prefabs\up.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\Prefabs\up.prefab.meta
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\Prefabs\up.prefab.meta
+      projectPath: Assets\Prefabs\up.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\arrowController.cs
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\arrowController.cs
+      projectPath: Assets\arrowController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assets\arrowController.cs.meta
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assets\arrowController.cs.meta
+      projectPath: Assets\arrowController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\ArtifactDB
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ScriptAssemblies\Assembly-CSharp.pdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\SourceAssetDB
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\StateCache\Hierarchy\46abc7-mainStage.json
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\StateCache\Hierarchy\46abc7-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\46abc7-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: fa087853350105f3ee60ddf094c985c6bfd168c1
     mergeA: 
     mergeB: 
