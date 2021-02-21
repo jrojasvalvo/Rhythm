@@ -22,6 +22,8 @@ public class PlayerMovement : MonoBehaviour
     private int combo;
     private int score;
 
+    public Animator anim;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,6 +31,7 @@ public class PlayerMovement : MonoBehaviour
         counter = 0;
         combo = 1;
         score = 0;
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -58,9 +61,13 @@ public class PlayerMovement : MonoBehaviour
         
         if(Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)) {
             upPress = true;
+            anim.SetBool("jump", true);
+            anim.SetBool("slide", false);
             transform.position = new Vector3(x, upY, z);
         } else if(Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow)) {
             downPress = true;
+            anim.SetBool("slide", true);
+            anim.SetBool("jump", false);
             transform.position = new Vector3(x, downY, z);
         } else if(Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow)) {
             leftPress = true;
@@ -68,9 +75,11 @@ public class PlayerMovement : MonoBehaviour
             rightPress = true;
         }
 
-        if(Input.GetKeyUp(KeyCode.W) || Input.GetKeyUp(KeyCode.UpArrow)) {
+        if (Input.GetKeyUp(KeyCode.W) || Input.GetKeyUp(KeyCode.UpArrow)) {
+            anim.SetBool("jump", false);
             transform.position = new Vector3(x, neutralY, z);
         } else if(Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.DownArrow)) {
+            anim.SetBool("slide", false);
             transform.position = new Vector3(x, neutralY, z);
         }
         
