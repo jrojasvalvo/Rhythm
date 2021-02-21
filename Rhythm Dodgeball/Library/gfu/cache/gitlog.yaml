@@ -13,9 +13,93 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-21T10:44:31.877-05:00
+  lastUpdatedAtString: 2021-02-21T10:49:19.952-05:00
   initializedAtString: 2021-02-21T10:33:49.636-05:00
   log:
+  - commitID: 2fd54c7ef69683de66ffd646c1dd08bf730309d4
+    mergeA: 
+    mergeB: 
+    authorName: Shmeigo
+    authorEmail: jlessiohadi@gmail.com
+    commitEmail: jlessiohadi@gmail.com
+    commitName: Shmeigo
+    summary: cmon
+    description: 
+    timeString: 2021-02-21T10:49:16.000-05:00
+    commitTimeString: 2021-02-21T10:49:16.000-05:00
+    changes:
+    - path: Rhythm Dodgeball\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Assembly-CSharp.csproj
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\ArtifactDB-lock
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\ArtifactDB-lock
+      projectPath: Library\ArtifactDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\SourceAssetDB
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\SourceAssetDB-lock
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\SourceAssetDB-lock
+      projectPath: Library\SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Rhythm Dodgeball\Rhythm Dodgeball.sln
+      fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Rhythm Dodgeball.sln
+      projectPath: Rhythm Dodgeball.sln
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: c8db35dbeba868c0cd830315b8c953b8b6ad6a4e
     mergeA: 
     mergeB: 
