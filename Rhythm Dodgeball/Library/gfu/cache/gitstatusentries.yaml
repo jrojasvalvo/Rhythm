@@ -13,21 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-02-21T10:23:47.830-05:00
+  lastUpdatedAtString: 2021-02-21T10:24:53.459-05:00
   initializedAtString: 2021-02-21T10:04:04.602-05:00
   entries:
-  - path: .gitignore
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\.gitignore
-    projectPath: ..\.gitignore
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: .gitignore.txt
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\.gitignore.txt
-    projectPath: ..\.gitignore.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Rhythm Dodgeball\Library\gfu\cache\branches.yaml
     fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -64,9 +52,3 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Rhythm Dodgeball\Temp\UnityLockfile
-    fullPath: C:\Users\jless\Documents\GitHub\Rhythm\Rhythm Dodgeball\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
