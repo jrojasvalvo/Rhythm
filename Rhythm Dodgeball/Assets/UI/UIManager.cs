@@ -6,6 +6,9 @@ using UnityEngine.SceneManagement;
 public class UIManager : MonoBehaviour
 {
 	GameObject[] pauseObjects;
+	GameObject[] endObjects;
+	public static int score;
+	public static int highscore;
 
 	public void StartGame()
     {
@@ -22,6 +25,9 @@ public class UIManager : MonoBehaviour
 		Time.timeScale = 1;
 		pauseObjects = GameObject.FindGameObjectsWithTag("ShowOnPause");
 		hidePaused();
+		endObjects = GameObject.FindGameObjectsWithTag("ShowOnEnd");
+		hideEnd();
+		score = 0;
 	}
 
 	void Update()
@@ -41,6 +47,13 @@ public class UIManager : MonoBehaviour
 				hidePaused();
 			}
 		}
+
+		/*
+		 * if (game over)
+		 * {
+		 *		if (highscore > score) highscore = score;
+		 * }
+		 */
 	}
 
 	//Reloads the Level
@@ -77,6 +90,24 @@ public class UIManager : MonoBehaviour
 	public void hidePaused()
 	{
 		foreach (GameObject g in pauseObjects)
+		{
+			g.SetActive(false);
+		}
+	}
+
+	//shows objects with ShowOnEnd tag
+	public void showEnd()
+	{
+		foreach (GameObject g in endObjects)
+		{
+			g.SetActive(true);
+		}
+	}
+
+	//hides objects with ShowOnEnd tag
+	public void hideEnd()
+	{
+		foreach (GameObject g in endObjects)
 		{
 			g.SetActive(false);
 		}
